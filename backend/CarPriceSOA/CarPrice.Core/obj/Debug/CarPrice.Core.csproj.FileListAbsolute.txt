@@ -1,0 +1,6 @@
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.Core\bin\Debug\CarPrice.Core.dll
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.Core\bin\Debug\CarPrice.Core.pdb
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.Core\obj\Debug\CarPrice.Core.csproj.AssemblyReference.cache
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.Core\obj\Debug\CarPrice.Core.csproj.CoreCompileInputs.cache
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.Core\obj\Debug\CarPrice.Core.dll
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.Core\obj\Debug\CarPrice.Core.pdb

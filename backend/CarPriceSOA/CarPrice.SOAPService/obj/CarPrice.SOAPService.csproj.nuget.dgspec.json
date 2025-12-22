@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\CarPrice.SOAPService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\CarPrice.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\CarPrice.Business.csproj",
+        "projectName": "CarPrice.Business",
+        "projectPath": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\CarPrice.Business.csproj",
+        "packagesPath": "C:\\Users\\asuspc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\asuspc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\CarPrice.Core.csproj": {
+                "projectPath": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\CarPrice.Core.csproj"
+              },
+              "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\CarPrice.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\CarPrice.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\CarPrice.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\CarPrice.Core.csproj",
+        "projectName": "CarPrice.Core",
+        "projectPath": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\CarPrice.Core.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\CarPrice.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\CarPrice.DataAccess.csproj",
+        "projectName": "CarPrice.DataAccess",
+        "projectPath": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\CarPrice.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\asuspc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\asuspc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\CarPrice.Core.csproj": {
+                "projectPath": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\CarPrice.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\CarPrice.SOAPService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\CarPrice.SOAPService.csproj",
+        "projectName": "CarPrice.SOAPService",
+        "projectPath": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\CarPrice.SOAPService.csproj",
+        "packagesPath": "C:\\Users\\asuspc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\asuspc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\CarPrice.Business.csproj": {
+                "projectPath": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\CarPrice.Business.csproj"
+              },
+              "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\CarPrice.Core.csproj": {
+                "projectPath": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\CarPrice.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SoapCore": {
+              "target": "Package",
+              "version": "[1.2.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+﻿
+
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<!-- gRPC için gerekli paketler -->
+	<ItemGroup>
+		<PackageReference Include="Grpc.Net.Client" Version="2.71.0" />
+		<PackageReference Include="Grpc.Tools" Version="2.71.0" PrivateAssets="All" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="10.0.1" />
+	</ItemGroup>
+
+	<!-- Proto dosyasını import et (client kodu burada üretilecek) -->
+	<ItemGroup>
+		<Protobuf Include="..\CarPrice.GRPCService\Protos\gRPC.proto" GrpcServices="Client" />
+	</ItemGroup>
+
+	<!-- Diğer proje referansları -->
+	<ItemGroup>
+		<ProjectReference Include="..\CarPrice.Business\CarPrice.Business.csproj" />
+		<ProjectReference Include="..\CarPrice.Core\CarPrice.Core.csproj" />
+		<ProjectReference Include="..\CarPrice.DataAccess\CarPrice.DataAccess.csproj" />
+		<ProjectReference Include="..\CarPrice.GRPCService\CarPrice.GRPCService.csproj" />
+		<ProjectReference Include="..\CarPrice.SOAPService\CarPrice.SOAPService.csproj" />
+	</ItemGroup>
+
+</Project>

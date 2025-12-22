@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CarPrice.ApiGateway.props" />
+</Project>

@@ -1,0 +1,152 @@
+[
+  {
+    "ContainingType": "CarPrice.ApiGateway.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CarPrice.Core.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarPrice.ApiGateway.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CarPrice.Core.DTOs.RegisterDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarPrice.ApiGateway.Controllers.CarController",
+    "Method": "GetBrands",
+    "RelativePath": "api/Car/brands",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarPrice.ApiGateway.Controllers.GrpcProxyController",
+    "Method": "GetBrands",
+    "RelativePath": "api/GrpcProxy/brands",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarPrice.ApiGateway.Controllers.LookupController",
+    "Method": "GetBodyTypes",
+    "RelativePath": "api/Lookup/bodytypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarPrice.ApiGateway.Controllers.LookupController",
+    "Method": "GetBrands",
+    "RelativePath": "api/Lookup/brands",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarPrice.ApiGateway.Controllers.LookupController",
+    "Method": "GetColors",
+    "RelativePath": "api/Lookup/colors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarPrice.ApiGateway.Controllers.LookupController",
+    "Method": "GetFuelTypes",
+    "RelativePath": "api/Lookup/fueltypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarPrice.ApiGateway.Controllers.LookupController",
+    "Method": "GetGearTypes",
+    "RelativePath": "api/Lookup/geartypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarPrice.ApiGateway.Controllers.LookupController",
+    "Method": "GetModels",
+    "RelativePath": "api/Lookup/models",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "brandId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarPrice.ApiGateway.Controllers.PredictionsController",
+    "Method": "My",
+    "RelativePath": "api/Predictions/my/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarPrice.ApiGateway.Controllers.PredictionsController",
+    "Method": "Save",
+    "RelativePath": "api/Predictions/save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CarPrice.DataAccess.Repositories.PricePredictionInsertDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

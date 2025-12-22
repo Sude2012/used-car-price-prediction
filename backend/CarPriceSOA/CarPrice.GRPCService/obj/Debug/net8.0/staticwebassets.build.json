@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "REyXhht5b/B9kNLNSKvnXXqX/7WmFp3py7WpNXukbL0=",
+  "Source": "CarPrice.GRPCService",
+  "BasePath": "_content/CarPrice.GRPCService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
