@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "Hash": "9/CUTtAbyTsbWnGjj9JmdHoDmKAK9tjcbREYK6uXs9w=",
+  "Source": "CarPrice.ApiGateway",
+  "BasePath": "_content/CarPrice.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.GRPCService\\CarPrice.GRPCService.csproj",
+      "Version": 2,
+      "Source": "CarPrice.GRPCService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\CarPrice.SOAPService.csproj",
+      "Version": 2,
+      "Source": "CarPrice.SOAPService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

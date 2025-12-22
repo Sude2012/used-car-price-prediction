@@ -1,0 +1,686 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F167C5B3-6251-40EF-A0E1-0EA549A56261}|CarPrice.DataAccess\\CarPrice.DataAccess.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F167C5B3-6251-40EF-A0E1-0EA549A56261}|CarPrice.DataAccess\\CarPrice.DataAccess.csproj|solutionrelative:carprice.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F167C5B3-6251-40EF-A0E1-0EA549A56261}|CarPrice.DataAccess\\CarPrice.DataAccess.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.dataaccess\\repositories\\predictionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F167C5B3-6251-40EF-A0E1-0EA549A56261}|CarPrice.DataAccess\\CarPrice.DataAccess.csproj|solutionrelative:carprice.dataaccess\\repositories\\predictionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F167C5B3-6251-40EF-A0E1-0EA549A56261}|CarPrice.DataAccess\\CarPrice.DataAccess.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.dataaccess\\repositories\\lookuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F167C5B3-6251-40EF-A0E1-0EA549A56261}|CarPrice.DataAccess\\CarPrice.DataAccess.csproj|solutionrelative:carprice.dataaccess\\repositories\\lookuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F167C5B3-6251-40EF-A0E1-0EA549A56261}|CarPrice.DataAccess\\CarPrice.DataAccess.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.dataaccess\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F167C5B3-6251-40EF-A0E1-0EA549A56261}|CarPrice.DataAccess\\CarPrice.DataAccess.csproj|solutionrelative:carprice.dataaccess\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE9EA71-7121-4A85-9B49-670C2B8B8B5B}|CarPrice.Core\\CarPrice.Core.csproj|C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\carprice.core\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE9EA71-7121-4A85-9B49-670C2B8B8B5B}|CarPrice.Core\\CarPrice.Core.csproj|solutionrelative:carprice.core\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE9EA71-7121-4A85-9B49-670C2B8B8B5B}|CarPrice.Core\\CarPrice.Core.csproj|C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\carprice.core\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE9EA71-7121-4A85-9B49-670C2B8B8B5B}|CarPrice.Core\\CarPrice.Core.csproj|solutionrelative:carprice.core\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B691DA-F92C-470F-9A28-1949E8B65D00}|CarPrice.Business\\CarPrice.Business.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.business\\concrete\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B691DA-F92C-470F-9A28-1949E8B65D00}|CarPrice.Business\\CarPrice.Business.csproj|solutionrelative:carprice.business\\concrete\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B691DA-F92C-470F-9A28-1949E8B65D00}|CarPrice.Business\\CarPrice.Business.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B691DA-F92C-470F-9A28-1949E8B65D00}|CarPrice.Business\\CarPrice.Business.csproj|solutionrelative:carprice.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B691DA-F92C-470F-9A28-1949E8B65D00}|CarPrice.Business\\CarPrice.Business.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.business\\concrete\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B691DA-F92C-470F-9A28-1949E8B65D00}|CarPrice.Business\\CarPrice.Business.csproj|solutionrelative:carprice.business\\concrete\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|solutionrelative:carprice.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.apigateway\\controllers\\predictionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|solutionrelative:carprice.apigateway\\controllers\\predictionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.apigateway\\controllers\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|solutionrelative:carprice.apigateway\\controllers\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.apigateway\\controllers\\grpcproxycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|solutionrelative:carprice.apigateway\\controllers\\grpcproxycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.apigateway\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|solutionrelative:carprice.apigateway\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.apigateway\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|solutionrelative:carprice.apigateway\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|solutionrelative:carprice.apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.apigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|solutionrelative:carprice.apigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|solutionrelative:carprice.apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE9EA71-7121-4A85-9B49-670C2B8B8B5B}|CarPrice.Core\\CarPrice.Core.csproj|C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\carprice.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE9EA71-7121-4A85-9B49-670C2B8B8B5B}|CarPrice.Core\\CarPrice.Core.csproj|solutionrelative:carprice.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7143AC7-5806-4F4B-9BB0-1A3ED24F47B2}|CarPrice.SOAPService\\CarPrice.SOAPService.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.soapservice\\services\\ivehiclesoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7143AC7-5806-4F4B-9BB0-1A3ED24F47B2}|CarPrice.SOAPService\\CarPrice.SOAPService.csproj|solutionrelative:carprice.soapservice\\services\\ivehiclesoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7143AC7-5806-4F4B-9BB0-1A3ED24F47B2}|CarPrice.SOAPService\\CarPrice.SOAPService.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.soapservice\\services\\vehiclesoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7143AC7-5806-4F4B-9BB0-1A3ED24F47B2}|CarPrice.SOAPService\\CarPrice.SOAPService.csproj|solutionrelative:carprice.soapservice\\services\\vehiclesoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7143AC7-5806-4F4B-9BB0-1A3ED24F47B2}|CarPrice.SOAPService\\CarPrice.SOAPService.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.soapservice\\carprice.soapservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7143AC7-5806-4F4B-9BB0-1A3ED24F47B2}|CarPrice.SOAPService\\CarPrice.SOAPService.csproj|solutionrelative:carprice.soapservice\\carprice.soapservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB6140A-AD13-49B4-BECB-41E05D888839}|CarPrice.GRPCService\\CarPrice.GRPCService.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.grpcservice\\services\\grpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB6140A-AD13-49B4-BECB-41E05D888839}|CarPrice.GRPCService\\CarPrice.GRPCService.csproj|solutionrelative:carprice.grpcservice\\services\\grpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB6140A-AD13-49B4-BECB-41E05D888839}|CarPrice.GRPCService\\CarPrice.GRPCService.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.grpcservice\\protos\\grpc.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0CB6140A-AD13-49B4-BECB-41E05D888839}|CarPrice.GRPCService\\CarPrice.GRPCService.csproj|solutionrelative:carprice.grpcservice\\protos\\grpc.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB6140A-AD13-49B4-BECB-41E05D888839}|CarPrice.GRPCService\\CarPrice.GRPCService.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.grpcservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB6140A-AD13-49B4-BECB-41E05D888839}|CarPrice.GRPCService\\CarPrice.GRPCService.csproj|solutionrelative:carprice.grpcservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7143AC7-5806-4F4B-9BB0-1A3ED24F47B2}|CarPrice.SOAPService\\CarPrice.SOAPService.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.soapservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7143AC7-5806-4F4B-9BB0-1A3ED24F47B2}|CarPrice.SOAPService\\CarPrice.SOAPService.csproj|solutionrelative:carprice.soapservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F167C5B3-6251-40EF-A0E1-0EA549A56261}|CarPrice.DataAccess\\CarPrice.DataAccess.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F167C5B3-6251-40EF-A0E1-0EA549A56261}|CarPrice.DataAccess\\CarPrice.DataAccess.csproj|solutionrelative:carprice.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.apigateway\\carprice.apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|solutionrelative:carprice.apigateway\\carprice.apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7143AC7-5806-4F4B-9BB0-1A3ED24F47B2}|CarPrice.SOAPService\\CarPrice.SOAPService.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.soapservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7143AC7-5806-4F4B-9BB0-1A3ED24F47B2}|CarPrice.SOAPService\\CarPrice.SOAPService.csproj|solutionrelative:carprice.soapservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB6140A-AD13-49B4-BECB-41E05D888839}|CarPrice.GRPCService\\CarPrice.GRPCService.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.grpcservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CB6140A-AD13-49B4-BECB-41E05D888839}|CarPrice.GRPCService\\CarPrice.GRPCService.csproj|solutionrelative:carprice.grpcservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B691DA-F92C-470F-9A28-1949E8B65D00}|CarPrice.Business\\CarPrice.Business.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.business\\carprice.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8B691DA-F92C-470F-9A28-1949E8B65D00}|CarPrice.Business\\CarPrice.Business.csproj|solutionrelative:carprice.business\\carprice.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7143AC7-5806-4F4B-9BB0-1A3ED24F47B2}|CarPrice.SOAPService\\CarPrice.SOAPService.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.soapservice\\carprice.soapservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C7143AC7-5806-4F4B-9BB0-1A3ED24F47B2}|CarPrice.SOAPService\\CarPrice.SOAPService.csproj|solutionrelative:carprice.soapservice\\carprice.soapservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.apigateway\\carprice.apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|solutionrelative:carprice.apigateway\\carprice.apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B691DA-F92C-470F-9A28-1949E8B65D00}|CarPrice.Business\\CarPrice.Business.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.business\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B691DA-F92C-470F-9A28-1949E8B65D00}|CarPrice.Business\\CarPrice.Business.csproj|solutionrelative:carprice.business\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B691DA-F92C-470F-9A28-1949E8B65D00}|CarPrice.Business\\CarPrice.Business.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.business\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B691DA-F92C-470F-9A28-1949E8B65D00}|CarPrice.Business\\CarPrice.Business.csproj|solutionrelative:carprice.business\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.apigateway\\carprice.apigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5EC7C42C-8867-4FD5-BEF0-98C5233E9529}|CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj|solutionrelative:carprice.apigateway\\carprice.apigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB6140A-AD13-49B4-BECB-41E05D888839}|CarPrice.GRPCService\\CarPrice.GRPCService.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.grpcservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CB6140A-AD13-49B4-BECB-41E05D888839}|CarPrice.GRPCService\\CarPrice.GRPCService.csproj|solutionrelative:carprice.grpcservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB6140A-AD13-49B4-BECB-41E05D888839}|CarPrice.GRPCService\\CarPrice.GRPCService.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.grpcservice\\carprice.grpcservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CB6140A-AD13-49B4-BECB-41E05D888839}|CarPrice.GRPCService\\CarPrice.GRPCService.csproj|solutionrelative:carprice.grpcservice\\carprice.grpcservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7143AC7-5806-4F4B-9BB0-1A3ED24F47B2}|CarPrice.SOAPService\\CarPrice.SOAPService.csproj|c:\\users\\asuspc\\source\\repos\\carpricesoa\\carprice.soapservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7143AC7-5806-4F4B-9BB0-1A3ED24F47B2}|CarPrice.SOAPService\\CarPrice.SOAPService.csproj|solutionrelative:carprice.soapservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE9EA71-7121-4A85-9B49-670C2B8B8B5B}|CarPrice.Core\\CarPrice.Core.csproj|C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\carprice.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE9EA71-7121-4A85-9B49-670C2B8B8B5B}|CarPrice.Core\\CarPrice.Core.csproj|solutionrelative:carprice.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "CarPrice.Core\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "CarPrice.Core\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:21:26.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "CarPrice.Core\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "CarPrice.Core\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:20:46.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CarPrice.DataAccess\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "CarPrice.DataAccess\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:23:02.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LookupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\Repositories\\LookupRepository.cs",
+              "RelativeDocumentMoniker": "CarPrice.DataAccess\\Repositories\\LookupRepository.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\Repositories\\LookupRepository.cs",
+              "RelativeToolTip": "CarPrice.DataAccess\\Repositories\\LookupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:04:04.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PredictionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\Repositories\\PredictionRepository.cs",
+              "RelativeDocumentMoniker": "CarPrice.DataAccess\\Repositories\\PredictionRepository.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\Repositories\\PredictionRepository.cs",
+              "RelativeToolTip": "CarPrice.DataAccess\\Repositories\\PredictionRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAJcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:04:52.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CarPrice.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CarPrice.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAIwPYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:23:48.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarManager.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\Concrete\\CarManager.cs",
+              "RelativeDocumentMoniker": "CarPrice.Business\\Concrete\\CarManager.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\Concrete\\CarManager.cs*",
+              "RelativeToolTip": "CarPrice.Business\\Concrete\\CarManager.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:55:12.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "CarPrice.Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\Class1.cs",
+              "RelativeToolTip": "CarPrice.Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:28:57.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\Concrete\\AuthService.cs",
+              "RelativeDocumentMoniker": "CarPrice.Business\\Concrete\\AuthService.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\Concrete\\AuthService.cs",
+              "RelativeToolTip": "CarPrice.Business\\Concrete\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:44:34.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "CarPrice.ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\Program.cs",
+              "RelativeToolTip": "CarPrice.ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:46:14.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PredictionsController.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\Controllers\\PredictionsController.cs",
+              "RelativeDocumentMoniker": "CarPrice.ApiGateway\\Controllers\\PredictionsController.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\Controllers\\PredictionsController.cs",
+              "RelativeToolTip": "CarPrice.ApiGateway\\Controllers\\PredictionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:02:54.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LookupController.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\Controllers\\LookupController.cs",
+              "RelativeDocumentMoniker": "CarPrice.ApiGateway\\Controllers\\LookupController.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\Controllers\\LookupController.cs",
+              "RelativeToolTip": "CarPrice.ApiGateway\\Controllers\\LookupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:01:49.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GrpcProxyController.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\Controllers\\GrpcProxyController.cs",
+              "RelativeDocumentMoniker": "CarPrice.ApiGateway\\Controllers\\GrpcProxyController.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\Controllers\\GrpcProxyController.cs",
+              "RelativeToolTip": "CarPrice.ApiGateway\\Controllers\\GrpcProxyController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T09:15:01.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CarPrice.ApiGateway\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CarPrice.ApiGateway\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:57:23.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CarPrice.ApiGateway\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CarPrice.ApiGateway\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:26:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CarPrice.ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CarPrice.ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-28T15:39:44.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CarPrice.ApiGateway\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\appsettings.Development.json",
+              "RelativeToolTip": "CarPrice.ApiGateway\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T18:24:06.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "CarPrice.ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\appsettings.json",
+              "RelativeToolTip": "CarPrice.ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T11:43:11.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CarPrice.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\Entities\\User.cs",
+              "RelativeToolTip": "CarPrice.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:19:02.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IVehicleSoapService.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\Services\\IVehicleSoapService.cs",
+              "RelativeDocumentMoniker": "CarPrice.SOAPService\\Services\\IVehicleSoapService.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\Services\\IVehicleSoapService.cs",
+              "RelativeToolTip": "CarPrice.SOAPService\\Services\\IVehicleSoapService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:28:24.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VehicleSoapService.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\Services\\VehicleSoapService.cs",
+              "RelativeDocumentMoniker": "CarPrice.SOAPService\\Services\\VehicleSoapService.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\Services\\VehicleSoapService.cs",
+              "RelativeToolTip": "CarPrice.SOAPService\\Services\\VehicleSoapService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:29:44.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CarPrice.SOAPService.csproj",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\CarPrice.SOAPService.csproj",
+              "RelativeDocumentMoniker": "CarPrice.SOAPService\\CarPrice.SOAPService.csproj",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\CarPrice.SOAPService.csproj",
+              "RelativeToolTip": "CarPrice.SOAPService\\CarPrice.SOAPService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-03T11:46:37.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "gRPC.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.GRPCService\\Services\\gRPC.cs",
+              "RelativeDocumentMoniker": "CarPrice.GRPCService\\Services\\gRPC.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.GRPCService\\Services\\gRPC.cs",
+              "RelativeToolTip": "CarPrice.GRPCService\\Services\\gRPC.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:18:58.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\Program.cs",
+              "RelativeDocumentMoniker": "CarPrice.SOAPService\\Program.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\Program.cs",
+              "RelativeToolTip": "CarPrice.SOAPService\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:39:23.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.GRPCService\\Program.cs",
+              "RelativeDocumentMoniker": "CarPrice.GRPCService\\Program.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.GRPCService\\Program.cs",
+              "RelativeToolTip": "CarPrice.GRPCService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:18:22.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "gRPC.proto",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.GRPCService\\Protos\\gRPC.proto",
+              "RelativeDocumentMoniker": "CarPrice.GRPCService\\Protos\\gRPC.proto",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.GRPCService\\Protos\\gRPC.proto",
+              "RelativeToolTip": "CarPrice.GRPCService\\Protos\\gRPC.proto",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-12-01T09:36:21.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CarPrice.ApiGateway.http",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\CarPrice.ApiGateway.http",
+              "RelativeDocumentMoniker": "CarPrice.ApiGateway\\CarPrice.ApiGateway.http",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\CarPrice.ApiGateway.http",
+              "RelativeToolTip": "CarPrice.ApiGateway\\CarPrice.ApiGateway.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-18T11:47:07.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "CarPrice.DataAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.DataAccess\\Class1.cs",
+              "RelativeToolTip": "CarPrice.DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:28:06.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\appsettings.json",
+              "RelativeDocumentMoniker": "CarPrice.SOAPService\\appsettings.json",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\appsettings.json",
+              "RelativeToolTip": "CarPrice.SOAPService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T11:47:03.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CarPrice.SOAPService.http",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\CarPrice.SOAPService.http",
+              "RelativeDocumentMoniker": "CarPrice.SOAPService\\CarPrice.SOAPService.http",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\CarPrice.SOAPService.http",
+              "RelativeToolTip": "CarPrice.SOAPService\\CarPrice.SOAPService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-09T15:59:06.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CarPrice.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\CarPrice.Business.csproj",
+              "RelativeDocumentMoniker": "CarPrice.Business\\CarPrice.Business.csproj",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\CarPrice.Business.csproj",
+              "RelativeToolTip": "CarPrice.Business\\CarPrice.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T14:14:34.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.GRPCService\\appsettings.json",
+              "RelativeDocumentMoniker": "CarPrice.GRPCService\\appsettings.json",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.GRPCService\\appsettings.json",
+              "RelativeToolTip": "CarPrice.GRPCService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-28T15:18:52.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CarPrice.ApiGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj",
+              "RelativeDocumentMoniker": "CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj",
+              "RelativeToolTip": "CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-28T15:33:19.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CarPrice.Business\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "CarPrice.Business\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:43:50.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\Interfaces\\ICarService.cs",
+              "RelativeDocumentMoniker": "CarPrice.Business\\Interfaces\\ICarService.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Business\\Interfaces\\ICarService.cs",
+              "RelativeToolTip": "CarPrice.Business\\Interfaces\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:53:00.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CarPrice.ApiGateway",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj",
+              "RelativeDocumentMoniker": "CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj",
+              "RelativeToolTip": "CarPrice.ApiGateway\\CarPrice.ApiGateway.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T14:10:57.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CarPrice.GRPCService.csproj",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.GRPCService\\CarPrice.GRPCService.csproj",
+              "RelativeDocumentMoniker": "CarPrice.GRPCService\\CarPrice.GRPCService.csproj",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.GRPCService\\CarPrice.GRPCService.csproj",
+              "RelativeToolTip": "CarPrice.GRPCService\\CarPrice.GRPCService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T08:17:21.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.GRPCService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CarPrice.GRPCService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.GRPCService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CarPrice.GRPCService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-28T15:19:08.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CarPrice.SOAPService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.SOAPService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CarPrice.SOAPService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-28T15:39:10.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "CarPrice.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\asuspc\\source\\repos\\CarPriceSOA\\CarPrice.Core\\Class1.cs",
+              "RelativeToolTip": "CarPrice.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:26:52.598Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

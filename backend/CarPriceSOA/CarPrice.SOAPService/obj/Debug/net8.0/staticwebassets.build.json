@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D2k042dS+bmKGvXVzTAMA2ROACneJitk+BcxeqqLoPw=",
+  "Source": "CarPrice.SOAPService",
+  "BasePath": "_content/CarPrice.SOAPService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@CarPrice.ApiGateway_HostAddress = http://localhost:5138
+
+GET {{CarPrice.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

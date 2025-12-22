@@ -1,0 +1,45 @@
+/*syntax = "proto3";
+
+option csharp_namespace = "CarPrice.GRPCService";
+
+package greet;
+
+// The greeting service definition.
+service Greeter {
+  // Sends a greeting
+  rpc SayHello (HelloRequest) returns (HelloReply);
+}
+
+// The request message containing the user's name.
+message HelloRequest {
+  string name = 1;
+}
+
+// The response message containing the greetings.
+message HelloReply {
+  string message = 1;
+}
+*/
+
+
+syntax = "proto3";
+
+option csharp_namespace = "CarPrice.GRPCService";
+
+package vehicle;
+
+// Araç servis tanýmý
+service VehicleService {
+  // Marka listesini döner   METOT
+  rpc GetBrands (BrandRequest) returns (BrandResponse);
+}
+
+// Ýstek (boþ olabilir)
+message BrandRequest {
+	//string brdands=1;
+}
+
+// Yanýt (list of string)
+message BrandResponse {
+  repeated string brands = 1;
+}

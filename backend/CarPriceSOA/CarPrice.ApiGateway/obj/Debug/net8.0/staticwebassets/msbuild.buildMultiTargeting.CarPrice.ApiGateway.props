@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CarPrice.ApiGateway.props" />
+</Project>

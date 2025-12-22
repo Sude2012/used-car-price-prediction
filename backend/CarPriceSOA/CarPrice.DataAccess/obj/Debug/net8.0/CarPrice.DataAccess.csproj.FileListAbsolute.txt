@@ -1,0 +1,16 @@
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\bin\Debug\net8.0\CarPrice.DataAccess.deps.json
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\bin\Debug\net8.0\CarPrice.DataAccess.dll
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\bin\Debug\net8.0\CarPrice.DataAccess.pdb
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\bin\Debug\net8.0\CarPrice.Core.dll
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\bin\Debug\net8.0\CarPrice.Core.pdb
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\obj\Debug\net8.0\CarPrice.DataAccess.csproj.AssemblyReference.cache
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\obj\Debug\net8.0\CarPrice.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\obj\Debug\net8.0\CarPrice.DataAccess.AssemblyInfoInputs.cache
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\obj\Debug\net8.0\CarPrice.DataAccess.AssemblyInfo.cs
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\obj\Debug\net8.0\CarPrice.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\obj\Debug\net8.0\CarPrice.DataAccess.sourcelink.json
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\obj\Debug\net8.0\CarPrice.BF71CDBD.Up2Date
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\obj\Debug\net8.0\CarPrice.DataAccess.dll
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\obj\Debug\net8.0\refint\CarPrice.DataAccess.dll
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\obj\Debug\net8.0\CarPrice.DataAccess.pdb
+C:\Users\asuspc\source\repos\CarPriceSOA\CarPrice.DataAccess\obj\Debug\net8.0\ref\CarPrice.DataAccess.dll
