@@ -69,7 +69,7 @@ The project is designed using **Service-Oriented Architecture (SOA)**:
 ![Price Prediction Screen](screenshots/Main_Screen.jpeg)
 
 ### Past Predictions Screen
-![Past Predictions Screen](screenshots/ast_Predictions.jpeg)
+![Past Predictions Screen](screenshots/Past_Predictions.jpeg)
 P
 ### Control Panel Screen
 ![Control Panel Screen](screenshots/Control_Panel.jpeg)
